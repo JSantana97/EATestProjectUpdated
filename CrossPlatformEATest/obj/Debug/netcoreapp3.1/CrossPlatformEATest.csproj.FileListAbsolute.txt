@@ -1,0 +1,13 @@
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\CrossPlatformEATest.deps.json
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\CrossPlatformEATest.dll
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.csprojAssemblyReference.cache
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.AssemblyInfoInputs.cache
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.AssemblyInfo.cs
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\EAAutoFramework.dll
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\CrossPlatformEATest.pdb
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.csproj.CoreCompileInputs.cache
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.csproj.CopyComplete
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.dll
+C:\Users\Titanium\Documents\UdemyCJ\EADotNetCoreProject\CrossPlatformEATest\obj\Debug\netcoreapp3.1\CrossPlatformEATest.pdb
